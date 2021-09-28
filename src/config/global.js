@@ -1,7 +1,6 @@
 export default {
   global: {
-    componenteFormativo:
-      'Plan de gestión, resultados y mejora continua',
+    componenteFormativo: 'Plan de gestión, resultados y mejora continua',
     descripcionCurso:
       'El objetivo de este programa es identificar el conocimiento requerido para elaborar, formular e implementar las acciones de mejora necesarias con miras al cabal funcionamiento de la empresa y obtener los resultados esperados, después de una correcta evaluación.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -36,7 +35,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Características de indicadores de gestión para mejora continua',
+            titulo:
+              'Características de indicadores de gestión para mejora continua',
             hash: 't_1_2',
           },
           {
@@ -69,7 +69,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Cómo construir cultura de trabajo de mejoramiento continuo',
+            titulo:
+              'Cómo construir cultura de trabajo de mejoramiento continuo',
             hash: 't_2_2',
           },
         ],
@@ -84,8 +85,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo:
-              'Para qué sirve un plan de mejoramiento',
+            titulo: 'Para qué sirve un plan de mejoramiento',
             hash: 't_3_1',
           },
           {
@@ -106,8 +106,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo:
-              'Etapas necesarias para mejoramiento continuo',
+            titulo: 'Etapas necesarias para mejoramiento continuo',
             hash: 't_4_1',
           },
           {
@@ -128,8 +127,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.1',
-            titulo:
-              'Elaboración de un informe de resultados',
+            titulo: 'Elaboración de un informe de resultados',
             hash: 't_5_1',
           },
           {
