@@ -30,6 +30,25 @@
             i.fas.fa-check
             p.mb-0  Mejorar la calidad de los servicios.    
 
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        .bloque-texto-d.color-acento-contenido.p-4.mb-5
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            .h5.text-bold Mejorar un proceso significa cambiarlo para hacerlo más efectivo, eficiente y adaptable. Es decir, qué cambiar y cómo cambiar depende del enfoque específico del empresario y del proceso.
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h6.mb-0 - De acuerdo con James Harrington (1993)
+
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            .h5.text-bold El mejoramiento continuo es una conversión en el mecanismo viable y accesible al que las empresas de los países en vías de desarrollo cierren la brecha tecnológica que mantienen con respecto al mundo desarrollado.
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h6.mb-0 - Fadi Kabboul (1994)
+
+
 
     #t_4_1.titulo-segundo
       h2 4.1  Etapas necesarias para mejoramiento continuo
