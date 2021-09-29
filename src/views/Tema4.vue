@@ -64,35 +64,48 @@
 
 
     p.mb-5  Estas etapas se explican a continuación:
-    TabsA.color-acento-botones.mb-5
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Plan (planificar)")
+    TabsA.color-secundario.mb-5
+      .tarjeta.color-acento-contenido.p-4(titulo="<i>Plan</i> (planificar)")
         h4 <i>Plan</i> (planificar)
         .row.mb-5
           .col-lg-3
-            figure
+            figure.slideInLeft
               img(src='@/assets/curso/t4-i3.svg', alt='imagen decorativa')
           .col-lg-9
             p En esta etapa se identifican cuáles son las actividades que la organización debe mejorar, y se planifican las acciones para fijar los objetivos que logren este fin.
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Plan (planificar)")
+      .tarjeta.color-acento-contenido.p-4(titulo="<i>Do</i> (hacer)")
         h4 <i>Do</i> (hacer)
         .row.mb-5
           .col-lg-3
-            figure
+            figure.slideInLeft
               img(src='@/assets/curso/t4-i4.svg', alt='imagen decorativa')
           .col-lg-9
             p Acá se hacen los cambios que se necesiten para lograr los cambios necesarios, con base en una pequeña muestra que permita evaluarlos antes de hacerlos efectivos.
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Plan (planificar)")
+      .tarjeta.color-acento-contenido.p-4(titulo="<i>Check</i> (verificar)")
         h4 <i>Check</i> (verificar)
         .row.mb-5
           .col-lg-3
-            figure
+            figure.slideInLeft
               img(src='@/assets/curso/t4-i5.svg', alt='imagen decorativa')
           .col-lg-9
             p Una vez se ejecuten los cambios, se toman un periodo de prueba para confirmar que estén funcionando correctamente. Si no hay mejora con lo realizado, se deben volver a modificar las acciones para mejorar.
-        
 
+      .tarjeta.color-acento-contenido.p-4(titulo="<i>Check</i> (verificar)")
+        h4 <i>Act</i> (actuar)
+        .row.mb-5
+          .col-lg-3
+            figure.slideInLeft
+              img(src='@/assets/curso/t4-i6.svg', alt='imagen decorativa')
+          .col-lg-9
+            p Al finalizar el periodo de prueba los resultados son evaluados y comparados con los históricos que se tengan sobre la actividad a la cual se la ha hecho la mejora. Si ha habido mejora, se establece de manera definitiva. En caso contrario, hay dos posibilidades: se mejora lo realizado o se cambia esa acción.
+    
+    p.mb-5  Estas fases en español son las mismas de Planificar, Hacer, Verificar y Actuar: PHVA.
+    .row.mb-5.justify-content-center
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/t4-i7.svg', alt='imagen decorativa')
 
 
 
@@ -102,11 +115,65 @@
     #t_4_2.titulo-segundo
       h2 4.2  Tipos de mejoramiento
 
+    p.mb-5  Hay una gran variedad de tipos de formas para lograr aumentar la efectividad en los procesos que tienen que ver con el mejoramiento continuo en las empresas que desean alcanzar un nivel de excelencia en sus procesos internos para satisfacción de sus accionistas, propietarios y en aras de los clientes finales, como los siguientes:
+    .row.justify-content-center.mb-5
+      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+        .row.justify-content-center(titulo="Tipo 1: El modelo PDCA")
+          .col-md-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t4-i8.svg', alt='imagen decorativa')
+
+          .col-md-7.mb-4.mb-md-0
+            p Ya definido anteriormente, es considerado el modelo base de la mejora continua, porque su ciclo es repetido y sin fin. Tiene relación con algunas normas ISO, como la ISO 9001 sobre la gestión de calidad.
+        
+        .row.justify-content-center(titulo="Tipo 2: Análisis de valor")
+          .col-md-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t4-i9.svg', alt='imagen decorativa')
+
+          .col-md-7.mb-4.mb-md-0
+            p Hace hincapié en buscar valores agregados o añadidos al producto, pero tomando en consideración la reducción de costos. Busca alcanzar los mismos estándares de calidad a menor precio.
+
+        .row.justify-content-center(titulo="Tipo 3: Los 5 porqués")
+          .col-md-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t4-i10.svg', alt='imagen decorativa')
+
+          .col-md-7.mb-4.mb-md-0
+            p Este método plantea la elaboración de preguntas en sentido inverso a la ocurrencia del hecho, para detectar las fallas que se hayan dado en el proceso; no necesariamente son cinco preguntas.
+
+        .row.justify-content-center(titulo="Tipo 4: Estratificación")
+          .col-md-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t4-i11.svg', alt='imagen decorativa')
+
+          .col-md-7.mb-4.mb-md-0
+            p Herramienta que divide en niveles la información del evento. Al presentarse un problema, los datos se seleccionan con base en criterios como materiales, tipos de defectos, grupos de trabajo entre otros criterios. Al hacerlo así, se busca separar lo que ha originado el fallo y atenderlas por separado.
 
 
+        .row.justify-content-center(titulo="Tipo 5: <i>Lean Manufacturing</i>")
+          .col-md-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t4-i12.svg', alt='imagen decorativa')
 
+          .col-md-7.mb-4.mb-md-0
+            p Este modelo Lean Manufacturing se centra en las necesidades del cliente o consumidor. Desde allí inicia el proceso de mejoramiento y con base en ello se hace uso de los recursos para la reducción de costos, respuestas inmediatas y la optimización de los ciclos de trabajo. 
 
+        .row.justify-content-center(titulo="Tipo 6: DFSS")
+          .col-md-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t4-i13.svg', alt='imagen decorativa')
 
+          .col-md-7.mb-4.mb-md-0
+            p Siglas de <i>Desing for Six Sigma</i>. Es un método específico para lanzamiento de productos o servicios nuevos. Para llegar al nivel requerido de calidad y poder ser lanzados, deben pasar por cinco etapas que las empresas deben tener en cuenta al instante de introducir ese nuevo elemento al mercado.
+
+        .row.justify-content-center(titulo="Tipo 7: Diagrama de afinidad")
+          .col-md-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t4-i14.svg', alt='imagen decorativa')
+
+          .col-md-7.mb-4.mb-md-0
+            p Este método busca dar claridad a situaciones que se presentan en algunos problemas, donde es muy difícil encontrarlos a primera vista. Se trata de agrupar ideas o temas que se relacionen entre sí, estableciendo vínculos que no se consideraron al inicio, al momento de tomar las decisiones.
 
 
 
