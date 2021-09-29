@@ -53,6 +53,47 @@
     #t_4_1.titulo-segundo
       h2 4.1  Etapas necesarias para mejoramiento continuo
 
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5.custom-cardBlock.ltr.slideInUp
+          .bloque-texto-g__texto.p-4
+            p.mb-0 Una de las técnicas sugeridas para implementar el plan de mejora es <b>el ciclo PDCA</b>, también conocido como ciclo de mejora continua o ciclo de <i>Deming</i>; y suele ser el más empleado en la implementación de sistema alguno para hacer un plan de mejoramiento continuo.
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/t4-i2.svg')})`}"
+          )
+
+
+    p.mb-5  Estas etapas se explican a continuación:
+    TabsA.color-acento-botones.mb-5
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Plan (planificar)")
+        h4 <i>Plan</i> (planificar)
+        .row.mb-5
+          .col-lg-3
+            figure
+              img(src='@/assets/curso/t4-i3.svg', alt='imagen decorativa')
+          .col-lg-9
+            p En esta etapa se identifican cuáles son las actividades que la organización debe mejorar, y se planifican las acciones para fijar los objetivos que logren este fin.
+
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Plan (planificar)")
+        h4 <i>Do</i> (hacer)
+        .row.mb-5
+          .col-lg-3
+            figure
+              img(src='@/assets/curso/t4-i4.svg', alt='imagen decorativa')
+          .col-lg-9
+            p Acá se hacen los cambios que se necesiten para lograr los cambios necesarios, con base en una pequeña muestra que permita evaluarlos antes de hacerlos efectivos.
+
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Plan (planificar)")
+        h4 <i>Check</i> (verificar)
+        .row.mb-5
+          .col-lg-3
+            figure
+              img(src='@/assets/curso/t4-i5.svg', alt='imagen decorativa')
+          .col-lg-9
+            p Una vez se ejecuten los cambios, se toman un periodo de prueba para confirmar que estén funcionando correctamente. Si no hay mejora con lo realizado, se deben volver a modificar las acciones para mejorar.
+        
+
+
 
 
     Separador
