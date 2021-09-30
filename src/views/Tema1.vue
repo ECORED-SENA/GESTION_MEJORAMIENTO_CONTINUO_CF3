@@ -301,7 +301,7 @@
           img(src='@/assets/curso/t1-i4.svg', alt='imagen decorativa')
       .col-lg-7
         p.mb-3  Para la planeación estratégica se deben tener en cuenta tres funciones básicas que son:
-        ul.lista-ul.slideInUp(data-aos="slide-left")
+        ul.lista-ul(data-aos="slide-left")
           li
             i.fas.fa-check
             p.mb-0  Formulación de la estrategia.
@@ -334,18 +334,153 @@
           .col-md-6.mb-4.mb-md-0
             h4  La definición
             p Es la forma como se hará la cuantificación que se desea destacar del evento a controlar.
-
           .col-md-6
-            figure
+            figure.slideInLeft
               img(src='@/assets/curso/t1-s1.svg', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4  El objetivo
+            p Define para qué o en qué se va a utilizar la información que arroje el indicador.
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s2.svg', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4  Los niveles de referencia
+            p No se puede hacer una evaluación con indicadores de calidad o gestión, sin tener una referencia contra la cual sopesar los datos obtenidos. En este elemento, hay algunos que son relevantes como:
+            ul.lista-ul(data-aos="slide-left")
+              li
+                i.fas.fa-check
+                p.mb-0  Nivel histórico 
+              li
+                i.fas.fa-check
+                p.mb-0  Nivel estándar
+              li
+                i.fas.fa-check
+                p.mb-0  Nivel teórico 
+              li
+                i.fas.fa-check
+                p.mb-0  Nivel de requerimiento de los clientes 
+              li
+                i.fas.fa-check
+                p.mb-0  Nivel de la competencia    
 
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s3.svg', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4  La responsabilidad
+            p Definir claramente quién o quiénes serán los encargados de realizar la actividad, pero de igual manera tener muy claro que se hará para encontrar defectos y asignar quienes harán las correcciones y las mejoras mas no culpables. 
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s4.svg', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4  La medición
+            p En este punto, es fundamental que la forma como se efectúe la medición sea transparente, entendible para quienes las efectúen y tener las siguientes características:
+            ul.lista-ul(data-aos="slide-left")
+              li
+                i.fas.fa-check
+                p.mb-0  Pertinente
+              li
+                i.fas.fa-check
+                p.mb-0  Válida
+              li
+                i.fas.fa-check
+                p.mb-0  Precisa
+              li
+                i.fas.fa-check
+                p.mb-0  Específica
+              li
+                i.fas.fa-check
+                p.mb-0  Sensible  
 
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s5.svg', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4  La periodicidad
+            p Para estudiar de mejor manera la medición que se vaya a realizar, es importante que se hagan tomas periódicas de la información para asegurar la calidad de la medición.
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s6.svg', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4  El sistema de procesamiento
+            p Se debe asegurar no perder la calidad de la información en el proceso de cálculo y garantizar que los resultados conseguidos estén al alcance de todos los niveles de la compañía, de la manera más ágil y a tiempo. Para esto, es necesario y muy relevante que este sistema sea:
+            ul.lista-ul(data-aos="slide-left")
+              li
+                i.fas.fa-check
+                p.mb-0  Transaccional
+              li
+                i.fas.fa-check
+                p.mb-0  Transformable
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s7.svg', alt='imagen decorativa')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4  La toma de decisiones
+            p En este elemento hay algunos componentes básicos, a saber:
+            ul.lista-ul(data-aos="slide-left")
+              li
+                i.fas.fa-check
+                p.mb-0  El decisor
+              li
+                i.fas.fa-check
+                p.mb-0  Las alternativas de acción
+              li
+                i.fas.fa-check
+                p.mb-0  La incertidumbre
+              li
+                i.fas.fa-check
+                p.mb-0  Las restricciones
+              li
+                i.fas.fa-check
+                p.mb-0  La decisión individual pura                
+              li
+                i.fas.fa-check
+                p.mb-0 La decisión grupal
+
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s8.svg', alt='imagen decorativa')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4  Los tipos de decisión
+            p No solo es tomar la decisión. Se debe tener claro qué tipo de decisión se va a tomar con ella. Siempre se deben tomar en cuenta las causas que hacen que se tome esta decisión y los problemas que se puedan derivar de tomarla. Teniendo en cuenta esto, hay tres tipos de decisión que son:
+            ul.lista-ul(data-aos="slide-left")
+              li
+                i.fas.fa-check
+                p.mb-0  Decisiones estratégicas
+              li
+                i.fas.fa-check
+                p.mb-0  Decisiones operativas
+              li
+                i.fas.fa-check
+                p.mb-0 Decisiones correctivas
+                 
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s9.svg', alt='imagen decorativa')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4  Las consideraciones de gestión
+            p Cada indicador debe contar con un diagrama de causa-efecto y su interrelación con otros indicadores, lo que brinda la posibilidad de mejorar la capacidad de predicción de eventos (González, 2003).                 
+          .col-md-6
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-s10.svg', alt='imagen decorativa')
 
 
 
