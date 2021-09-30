@@ -328,14 +328,14 @@
 
     p.mb-5  Al momento de diseñar o de preparar un indicador de calidad o gestión, es muy importante tener presente los siguientes elementos:
 
-    .neg-margin-x.color-secundario.mb-5
-      SlyderA.p-5
+    .neg-margin-x.bg-lightYellow.mb-5
+      SlyderA
         .row
           .col-md-6.mb-4.mb-md-0
             h4  La definición
             p Es la forma como se hará la cuantificación que se desea destacar del evento a controlar.
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s1.svg', alt='imagen decorativa')
 
         .row
@@ -343,14 +343,14 @@
             h4  El objetivo
             p Define para qué o en qué se va a utilizar la información que arroje el indicador.
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s2.svg', alt='imagen decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
             h4  Los niveles de referencia
             p No se puede hacer una evaluación con indicadores de calidad o gestión, sin tener una referencia contra la cual sopesar los datos obtenidos. En este elemento, hay algunos que son relevantes como:
-            ul.lista-ul(data-aos="slide-left")
+            ul.lista-ul
               li
                 i.fas.fa-check
                 p.mb-0  Nivel histórico 
@@ -368,7 +368,7 @@
                 p.mb-0  Nivel de la competencia    
 
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s3.svg', alt='imagen decorativa')
 
         .row
@@ -376,14 +376,14 @@
             h4  La responsabilidad
             p Definir claramente quién o quiénes serán los encargados de realizar la actividad, pero de igual manera tener muy claro que se hará para encontrar defectos y asignar quienes harán las correcciones y las mejoras mas no culpables. 
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s4.svg', alt='imagen decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
             h4  La medición
             p En este punto, es fundamental que la forma como se efectúe la medición sea transparente, entendible para quienes las efectúen y tener las siguientes características:
-            ul.lista-ul(data-aos="slide-left")
+            ul.lista-ul
               li
                 i.fas.fa-check
                 p.mb-0  Pertinente
@@ -401,7 +401,7 @@
                 p.mb-0  Sensible  
 
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s5.svg', alt='imagen decorativa')
 
         .row
@@ -409,7 +409,7 @@
             h4  La periodicidad
             p Para estudiar de mejor manera la medición que se vaya a realizar, es importante que se hagan tomas periódicas de la información para asegurar la calidad de la medición.
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s6.svg', alt='imagen decorativa')
 
         .row
@@ -424,14 +424,14 @@
                 i.fas.fa-check
                 p.mb-0  Transformable
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s7.svg', alt='imagen decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
             h4  La toma de decisiones
             p En este elemento hay algunos componentes básicos, a saber:
-            ul.lista-ul(data-aos="slide-left")
+            ul.lista-ul
               li
                 i.fas.fa-check
                 p.mb-0  El decisor
@@ -452,14 +452,14 @@
                 p.mb-0 La decisión grupal
 
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s8.svg', alt='imagen decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
             h4  Los tipos de decisión
             p No solo es tomar la decisión. Se debe tener claro qué tipo de decisión se va a tomar con ella. Siempre se deben tomar en cuenta las causas que hacen que se tome esta decisión y los problemas que se puedan derivar de tomarla. Teniendo en cuenta esto, hay tres tipos de decisión que son:
-            ul.lista-ul(data-aos="slide-left")
+            ul.lista-ul
               li
                 i.fas.fa-check
                 p.mb-0  Decisiones estratégicas
@@ -471,7 +471,7 @@
                 p.mb-0 Decisiones correctivas
                  
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s9.svg', alt='imagen decorativa')
 
         .row
@@ -479,7 +479,7 @@
             h4  Las consideraciones de gestión
             p Cada indicador debe contar con un diagrama de causa-efecto y su interrelación con otros indicadores, lo que brinda la posibilidad de mejorar la capacidad de predicción de eventos (González, 2003).                 
           .col-md-6
-            figure.slideInLeft
+            figure
               img(src='@/assets/curso/t1-s10.svg', alt='imagen decorativa')
 
 
