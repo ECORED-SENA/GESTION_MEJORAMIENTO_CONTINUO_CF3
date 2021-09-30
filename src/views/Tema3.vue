@@ -58,9 +58,42 @@
 
     #t_3_1.titulo-segundo
       h2 3.1  Para qué sirve un plan de mejoramiento
+    .row.mb-5
+      .col-lg-2
+        figure(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t3-ic1.png" alt='icono decorativo')   
+
+      .col-lg-10(data-aos="fade-left")
+        p.mb-3  Todo plan de mejora es necesario y fundamental para que la empresa logre descubrir por ese medio qué los afecta y la posibilidad de intervenir por medio de acciones de mejora, los cumplimientos y objetivos generales de las diferentes áreas que la conforman.
+        p.mb-3  Se pueden describir algunos pasos a seguir para la elaboración del plan de mejora; a continuación, se indican los principales:
+
+    figure(data-aos="flip-up")
+      img(src="@/assets/curso/t3-i3.svg" alt='ejemplo de un plan de mejoramiento')    
+
+    p.mb-5  Ahora se presenta una tabla que servirá como herramienta a la hora de establecer una priorización en las acciones de mejora identificadas anteriormente. Una vez establecidas las puntuaciones de cada factor se establecerá la suma de las mismas, lo que servirá de orientación para identificar como prioritarias aquellas que tengan una mayor puntuación total.
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        figure(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t3-t1.svg" alt='icono decorativo')   
+
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        .tarjeta.color-acento-contenido.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/t3-ic1.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Priorización en acciones de mejora
+                  p.text-small Para afianzar sus conocimientos en establecer las acciones de mejora de la empresa,  le invitamos a descargar la siguiente tabla para colocar en práctica los concepto vistos.
+                .col-sm-auto
+                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
 
 
-
+    
     Separador
     br
     br
