@@ -88,10 +88,19 @@
                   h3.mb-1 Priorización en acciones de mejora
                   p.text-small Para afianzar sus conocimientos en establecer las acciones de mejora de la empresa,  le invitamos a descargar la siguiente tabla para colocar en práctica los concepto vistos.
                 .col-sm-auto
-                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/auditoria_interna_de_gestion_mejora_continua_2015.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
-
+    
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        .bloque-texto-d.color-acento-contenido.p-4.mb-5
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            .h5.text-bold La administración de la calidad total requiere de un proceso constante, que será llamado mejoramiento continuo, donde la perfección nunca se logra, pero siempre se busca.
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h6.mb-0 - De acuerdo con Deming (1996)
 
     
     Separador
@@ -100,10 +109,40 @@
     #t_3_2.titulo-segundo
       h2 3.2  Cómo implementar un plan de mejoramiento
 
+    .row.mb-5
+      .col-lg-7
+        p.mb-3  Para tener una mayor certeza de que el plan de mejora será un éxito, es muy importante que se identifique y defina de la mejor manera el problema. Muy seguramente existan varios problemas por tratar, pero se debe destacar o conocer muy bien la importancia del mismo para saber si se puede solucionar.
+        p.mb-3  Se debe tener presente que la implementación o puesta en marcha de un plan de mejora empresarial, siempre está ligado y depende de los recursos financieros de la empresa, por lo que se deben maximizar los resultados que se obtengan al hacerlo en una problemática que sea relevante y que su solución dependa de lo que se pueda hacer internamente por parte de la organización. 
 
+      .col-lg-5
+        figure(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t3-i4.jpg" alt='icono decorativo')
 
-
-
+    .row.mb-5
+      .col-lg-5
+        figure(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t3-i4.svg" alt='icono decorativo')
+      .col-lg-7
+        p.mb-3  Para seleccionar el problema te recomendamos realizar lo siguiente:
+        ul.lista-ul.slideInUp
+          li
+            i.fas.fa-check
+            p.mb-0  Listar todos los posibles problemas a solucionar.
+          li
+            i.fas.fa-check
+            p.mb-0  Identificar causas y relaciones en la lista de problemas para simplificar.
+          li
+            i.fas.fa-check
+            p.mb-0  Definir criterios para cuantificar la relevancia del problema, por ejemplo: ¿qué impacto tiene el problema en los ingresos de la empresa?, ¿qué consecuencias implica la no atención del problema?, ¿es viable financiera o técnicamente?, entre otros.
+          li
+            i.fas.fa-check
+            p.mb-0  Definir una escala para evaluar cada problema según los criterios establecidos. Por ejemplo: la escala puede ser del 1 al 5, donde 1 indica que el problema tiene poco impacto en los ingresos de la empresa y 5 que el problema tiene un impacto significativo en los ingresos de la empresa.
+          li
+            i.fas.fa-check
+            p.mb-0  El grupo de trabajo debe puntuar cada problema según los criterios establecidos y posteriormente se realizará una ponderación de los resultados para clasificar los problemas; para esta etapa se puede usar una herramienta especializada en encuestas como QuestionPro.
+          li
+            i.fas.fa-check
+            p.mb-0  Discutir los resultados finales con el grupo de trabajo, en caso se detecte empates en los resultados para llegar a un consenso.
 
 
 
