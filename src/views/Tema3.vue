@@ -99,7 +99,7 @@
             i.fas.fa-quote-left
             .h5.text-bold La administración de la calidad total requiere de un proceso constante, que será llamado mejoramiento continuo, donde la perfección nunca se logra, pero siempre se busca.
             i.fas.fa-quote-right
-          .bloque-texto-d__autor 
+          .bloque-texto-d__autor.text-normal
             .h6.mb-0 - De acuerdo con Deming (1996)
 
     
@@ -120,11 +120,11 @@
 
     .row.mb-5
       .col-lg-5
-        figure(data-aos="flip-up")
+        figure(data-aos="flip-left")
           img.nW(src="@/assets/curso/t3-i4.svg" alt='icono decorativo')
       .col-lg-7
         p.mb-3  Para seleccionar el problema te recomendamos realizar lo siguiente:
-        ul.lista-ul.slideInUp
+        ul.lista-ul.slideInUp(data-aos="fade-up")
           li
             i.fas.fa-check
             p.mb-0  Listar todos los posibles problemas a solucionar.
