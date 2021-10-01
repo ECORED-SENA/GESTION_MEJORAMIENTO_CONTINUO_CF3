@@ -13,7 +13,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/t3-i1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4.shadow-box
-            p.mb-0 Think about all the possibilities. A good composition is the result of a hierarchy consisting of clearly contrasting elements set with distinct alignments containing irregular intervals of negative space. Nothing of without working at it. Be impossible to ignore.
+            p.mb-0 Los planes de mejoramiento continuo son conjuntos de medidas que se toman para generar los cambios necesarios para que una organización, empresa o negocio pueda mejorar su rendimiento. De allí se desprenden las acciones de mejora que se deben aplicar para lograr estos objetivos (Educacion Navarra, s.f.).
 
     p.mb-5  Estos planes de mejora articulados de manera integrada brindan las decisiones estratégicas que se deben incorporar en los múltiples procesos de la empresa, para brindar un mejor servicio y que este sea percibido por los clientes. Estos planes también son la base para descubrir cuáles son las fallas que se están presentando y cuáles son las mejoras que se deben ejecutar, ante las posibles situaciones que se presenten de manera imprevista. El plan de mejora permite:
     .row.mb-5
