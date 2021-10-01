@@ -69,7 +69,7 @@
 
     h3.titulo-tercero Roles en un equipo de trabajo
     p.mb-3  Sobre los roles de los colaboradores que conforman un equipo de trabajo, el empresario y autor Stephen Robbins dijo lo siguiente: “Cada equipo tiene necesidades diferentes y debe seleccionarse a sus integrantes de modo que se garantice que se cubrirá la totalidad de los distintos roles” (Robbins, 2004).
-    p.mb-3  Estos roles se pueden aglutinar en nueve ítems que son los siguientes:
+    p.mb-4  Estos roles se pueden aglutinar en nueve ítems que son los siguientes:
     .row.mb-5
       .col-lg-4
         figure(data-aos='slide-left')
@@ -106,11 +106,11 @@
             p Organizador. Proporciona estructura.           
           li 
             .lista-ol--cuadro__vineta
-              span 7
+              span 8
             p Asesor. Ofrece un análisis amplio de las opciones.            
           li 
             .lista-ol--cuadro__vineta
-              span 7
+              span 9
             p Promotor. Celebra las ideas una vez iniciadas (Coworkingfy, 2020).
 
     .row.mb-5
@@ -184,7 +184,47 @@
         p.mb-3  La importancia del trabajo en equipo se destaca en que, en la actualidad, las organizaciones buscan ser más productivas, más competitivas y obtener resultados. Una de las vías que han encontrado para esto, es conseguir que los colaboradores y sus áreas funcionales, se vuelvan equipos de trabajo más unidos para lograr ser más eficaces y eficientes. 
         p.mb-3  Para que los equipos alcancen un alto rendimiento, el escritor Tom Peters, consultor empresarial norteamericano, determinó cinco componentes del trabajo en equipo, conocidos como “las cinco C del trabajo en equipo” que son:
 
-    //-- aqui vienen los cards
+    .row.mb-5
+      .col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/t2-c1.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Complementariedad
+              p.small Todos y cada uno de los miembros del equipo deben poner al servicio del mismo todas sus habilidades y competencias individuales. Con esto se asegura la consecución de objetivos que de manera individual no será posible.
+      .col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/t2-c2.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Coordinación
+              p.small Es facultad del líder conocer las habilidades de cada uno de sus miembros de equipo, para asignar las tareas y potencializar la obtención de resultados.
+      .col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/t2-c3.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Comunicación
+              p.small Es fundamental que la comunicación sea abierta, franca, oportuna y clara. Con esto cada miembro se asegura de conocer qué debe hacer y cómo lo debe hacer. 
+
+    .row.mb-5.justify-content-center
+      .col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/t2-c4.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Confianza
+              p.small Parte de la claridad del líder al explicar de manera concreta las labores a desarrollar. Debe existir de manera diáfana entre cada uno de los integrantes del equipo esa seguridad tanto de las capacidades individuales y las de los demás para lograr los objetivos propuestos. No es algo de fácil consecución y se debe trabajar día a día. 
+
+      .col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/t2-c5.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Compromiso
+              p.small Nada es más importante que los intereses del equipo. Por eso, es fundamental priorizar las necesidades e intereses de lo colectivo por encima de lo particular. 
+
+
 
     p.mb-5  Estos equipos de mejora se enfocan en aumentar la eficiencia y efectividad de una organización. Al interior deben primar los sentimientos de respeto, colaboración y confianza para que los resultados sean los esperados. En caso de falla o ausencia de alguno de estos pilares, el equipo funcionará mal, incidiendo esto en el resultado económico de la empresa, que es una variable de gran importancia y razón de ser de muchas organizaciones, por no decir todas. Teniendo como referencia lo anterior y para concretar la importancia del trabajo en equipo, se pueden agrupar de la siguiente manera:
 
@@ -258,7 +298,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos='flip-up')
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/t2-i7.svg')})`}"
           )
