@@ -157,14 +157,14 @@
               p.small Al finalizar la evaluación y al final del informe se deben colocar los datos de la persona que hace la evaluación que será quien firme el Informe de desempeño laboral. Estos datos deben incluir nombre, cargo y firma del evaluador, así como la fecha en la que el informe se concluye.
 
     .row.mb-5.justify-content-center
-      .col-lg-10
+      .col-lg-10.mb-5
         .cajon.color-primario.p-4
           p La idea detrás de este tipo de planilla es la de documentar cómo se ha desenvuelto el empleado en su tiempo y cuáles son las competencias técnicas y personales que demuestra en su puesto de trabajo.
 
       .col-lg-6
-        figcaption.customCaption <b>Figura</b> Informe individual del desempeño laboral.
+        figcaption.customCaption.mb-2 <b>Figura</b> Informe individual del desempeño laboral.
         figure(data-aos='flip-up')
-          img(src='@/assets/curso/t5-i4.jpg', alt='ejemplo de Informe individual')
+          img.shadow-box(src='@/assets/curso/t5-i4.jpg', alt='ejemplo de Informe individual')
 
     .row.mb-5.justify-content-center
       .col-lg-10
@@ -178,18 +178,9 @@
                   h3.mb-1 Informe individual de desempeño laboral
                   p.text-small Para afianzar sus conocimientos en documentar las competencias técnicas y personales en el puesto de trabajo, le invitamos a descargar el PDF
                 .col-sm-auto
-                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/auditoria_interna_de_gestion_mejora_continua_2015.pdf')" target="_blank")
+                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Anexo2_Informe-de-desempeno-laboral.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
-
-
-
-
-
-
-
-
-
 
     Separador
     br
@@ -197,11 +188,114 @@
     #t_5_3.titulo-segundo
       h2 5.3  Plan de mejora
 
+    .row.mb-5
+      .col-lg-2 
+        figure(data-aos='flip-left')
+          img.nW(src='@/assets/curso/t5-ic4.svg', alt='imagen decorativa')
+      .col-lg-10
+        p En un mundo cada vez más competitivo la búsqueda de ideas de propuestas de mejora para una empresa necesita ser constante. Ventas, rentabilidad, lucro, presencia en el mercado, reducción de costos operativos, optimización de recursos y automatización de procesos son algunos ejemplos de aspectos que las organizaciones siempre buscan mejorar. A continuación, se presentan ocho ejemplos de propuestas de mejora para una empresa que pueden ser aplicados en un negocio (sisteware, 2019).
+    
+    .neg-margin-x.tarjeta--gris.mb-5
+      .tarjeta.tarjeta--gris.p-4
+        LineaTiempoC.color-acento-botones(text-small)(data-aos='fade-up')
+          .row.justify-content-center(titulo="Ejemplo 1")
+            .col-md-3
+              figure
+                img.nW(src='@/assets/curso/t5-lt1.svg', alt='imagen decorativa')
+            .col-md-8.mb-4.mb-md-0
+              h3 Ejemplo 1. <i>Software</i> de gestión
+              p.mb-3  Las posibilidades del uso de un <i>software</i> de gestión son variadas: CRM, gestión de proyectos, automatización de <i>marketing</i>, gestión financiera, comunicación, etc. 
+              p.mb-3  Existen varios <i>software</i> de gestión financiera disponibles en el mercado, algunos de ellos con versiones gratuitas o precios realmente accesibles como <i>QuickBooks</i>, <i>ZeroPaper</i> y <i>Bkper</i>.
+
+          .row.justify-content-center(titulo="Ejemplo 2")
+            .col-md-3
+              figure
+                img.nW(src='@/assets/curso/t5-lt2.svg', alt='imagen decorativa')
+            .col-md-8.mb-4.mb-md-0
+              h3 Ejemplo 2.  Comunicación interna
+              p.mb-3  Los equipos que se comunican mal o que ni siquiera se comunican pueden afectar la calidad del trabajo, por eso es importante que la empresa desarrolle una comunicación interna efectiva y eficiente. Las acciones simples como el uso de murales, cuadros de aviso y una intranet ayudan bastante en la mejora del flujo de trabajo.
+
+          .row.justify-content-center(titulo="Ejemplo 3")
+            .col-md-3
+              figure
+                img.nW(src='@/assets/curso/t5-lt3.svg', alt='imagen decorativa')
+            .col-md-8.mb-4.mb-md-0
+              h3 Ejemplo 3. Metodología OKR
+              p.mb-3  La sigla OKR significa objetivos y resultados clave (<i>Objective and Key Results</i>). Simple, flexible y ágil, esta metodología de gestión es utilizada hoy por varias empresas exitosas como Google. Su objetivo es promover el compromiso entre los colaboradores y elevar la productividad de la organización.
+
+          .row.justify-content-center(titulo="Ejemplo 4")
+            .col-md-3
+              figure
+                img.nW(src='@/assets/curso/t5-lt4.svg', alt='imagen decorativa')
+            .col-md-8.mb-4.mb-md-0
+              h3 Ejemplo 4. <i>Home Office</i>
+              p.mb-3  El trabajo remoto es otro de los grandes ejemplos de propuesta de mejora para una empresa que la transformación digital ha proporcionado.
+              p.mb-3  Una de las razones que llevan a las empresas a adoptar el <i>home office</i> es la ganancia en productividad y la reducción de costos operacionales.
+              p.mb-3  Además, el profesional está más motivado para alcanzar resultados, ya que pasa a tener libertad para administrar su propio tiempo. 
+
+          .row.justify-content-center(titulo="Ejemplo 5")
+            .col-md-3
+              figure
+                img.nW(src='@/assets/curso/t5-lt5.svg', alt='imagen decorativa')
+            .col-md-8.mb-4.mb-md-0
+              h3 Ejemplo 5. Encuesta de mercado
+              p.mb-3  Las encuestas de mercado posibilitan al gestor tener una visión más amplia sobre el área en que la empresa actúa, orientándola durante la definición de estrategias y en la toma de decisiones.
+              p.mb-3  Realizar una buena investigación de mercado puede identificar problemas y oportunidades de negocio, por medio de ella es posible obtener y analizar información. 
+
+          .row.justify-content-center(titulo="Ejemplo 6")
+            .col-md-3
+              figure
+                img.nW(src='@/assets/curso/t5-lt6.svg', alt='imagen decorativa')
+            .col-md-8.mb-4.mb-md-0
+              h3 Ejemplo 6. Entrenamiento de los equipos
+              p.mb-3  Invertir en entrenamiento y capacitación de los equipos es una excelente forma de favorecer el surgimiento de nuevas ideas. Cursos, conferencias, <i>webinars</i> y <i>workshops</i> impactan directamente el desempeño de los empleados.
+              p.mb-3  Los equipos bien entrenados y capacitados tienden a cometer menos errores, lo que disminuye el número de reprocesos y, consecuentemente de costos. Así, la productividad se eleva.    
+
+          .row.justify-content-center(titulo="Ejemplo 7")
+            .col-md-3
+              figure
+                img.nW(src='@/assets/curso/t5-lt7.svg', alt='imagen decorativa')
+            .col-md-8.mb-4.mb-md-0
+              h3 Ejemplo 7. Clima organizacional
+              p.mb-3  El desarrollo de un clima organizacional ligero y agradable es algo que contribuye y que puede surtir efectos bastante positivos.
+              p.mb-3  Reuniones de integración, horarios flexibles, códigos de vestimenta más informales y buenas condiciones de trabajo son ejemplos de acciones que contribuyen a un clima organizacional más amigable y placentero para trabajar.  
+
+          .row.justify-content-center(titulo="Ejemplo 8")
+            .col-md-3
+              figure
+                img.nW(src='@/assets/curso/t5-lt8.svg', alt='imagen decorativa')
+            .col-md-8.mb-4.mb-md-0
+              h3 Ejemplo 8. Monitorear  acciones
+              p.mb-3  Procure monitorear periódicamente los resultados de las acciones de mejora en su empresa.
+              p.mb-3  El monitoreo posibilita identificar ciertas fallas y realizar los debidos ajustes en el medio del camino antes de que representen un problema mayor.
+              p.mb-3  Reúnase con los colaboradores al menos una vez al mes y ofrézcales la oportunidad de decir cuáles son sus dificultades en la búsqueda de resultados.
 
 
+    p.mb-5  De acuerdo con el Decreto 1072-2015, artículo 2.2.4.6.8, numeral 7, se invita a ver el siguiente video que hace parte de una actualización del sistema de gestión de seguridad y salud en el trabajo que debe ser aplicado con los planes de mejora continua en la empresa:
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    p.mb-5  En la siguiente figura se puede observar un formato del Plan de mejora de personal que debe realizar una empresa para un buen funcionamiento de sus procesos.
+    
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        figcaption.customCaption.mb-2 <b>Figura</b> Plan de mejora de personal
+        figure(data-aos='flip-left')
+          img.nW.shadow-box(src='@/assets/curso/t5-i5.jpg', alt='ejemplo de plan de mejora personal')
 
-
-
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        .tarjeta.color-acento-contenido.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  .h4.mb-1 Descarga esta tabla y por en práctica los conocimientos adquiridos
+                .col-sm-auto
+                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Anexo3_Plan_De_Mejora_De_Personal.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
 
 
 
