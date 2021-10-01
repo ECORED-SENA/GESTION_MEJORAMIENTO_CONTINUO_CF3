@@ -10,7 +10,7 @@
       h1 Introducción
     .row.mb-5.justify-content-center
       .col-lg-8
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.slideInUp
+        .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5.slideInUp
           .row.m-0.align-items-center.justify-content-between
             .col-lg-2.mb-4.mb-lg-0
               figure

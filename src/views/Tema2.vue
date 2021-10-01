@@ -27,13 +27,13 @@
     p.mb-5  Hay muchas definiciones de diferentes autores y, sin embargo, todos expresan una idea similar a la que se indica a continuación:
     .row.mb-5.justify-content-center
       .col-lg-10
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.slideInUp 
+        .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5.slideInUp 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               figure(data-aos='flip-left')
                 img(src="@/assets/curso/t2-i2.svg" alt='imagen decorativa')
             .col-lg-8
-              .bloque-texto-a__texto.p-4
+              .bloque-texto-a__texto.p-4.shadow-box
                 p El trabajo en equipo es un grupo de personas que se basan en los llamados grupos de trabajo. Estos fueron evolucionando cualitativamente hasta alcanzar esta definición ya que se trata de una forma de trabajar entre varias personas que se unen para lograr metas comunes. En estos grupos las cualidades, habilidades y aptitudes son complementarias, tienen responsabilidades individuales, mutuas el uno con el otro, pero siempre estas están enfocadas en el compromiso y objetivos comunes.
 
     .row.mb-5.justify-content-center
@@ -298,7 +298,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos='flip-up')
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos='flip-up')
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/t2-i7.svg')})`}"
           )

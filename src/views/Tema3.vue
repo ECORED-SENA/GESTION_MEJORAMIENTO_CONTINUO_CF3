@@ -8,7 +8,7 @@
       h1 Acciones y planes de mejora
     .row.mb-5.justify-content-center
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5.slideInUp
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5.slideInUp
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/t3-i1.jpg')})`}"
           )
