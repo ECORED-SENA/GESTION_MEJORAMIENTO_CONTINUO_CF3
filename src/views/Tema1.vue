@@ -8,7 +8,9 @@
       h1 Indicadores de gestión
     .row.mb-5
       .col-lg-4
-      .col-lg-8
+        figure.slideInLeft
+          img(src='@/assets/curso/t1-i1.jpg', alt='imagen decorativa')
+      .col-lg-8.slideInUp
         p.mb-3  Los indicadores de gestión o conocidos como KPI (del inglés <i>Key Performance Indicator</i>) son las formas o medios que una empresa utiliza para conocer si sus objetivos generales, sus áreas funcionales y operativas, su personal o algún proyecto en específico, se están logrando.
         p.mb-3  También conocidos como indicadores de calidad, que <b>“evalúan el resultado final de las empresas basándose en un estándar el cual responde al nivel de calidad objetivo que la empresa espera y desea alcanzar”</b> (isotools.org, 2015).
         p.mb-3  Este tipo de método permite conocer qué está funcionando y qué no. Es una forma de analizar resultados de manera numérica y permite conocer si las acciones que se adelantan por parte de la empresa son consecuentes y logran los objetivos propuestos por la organización. 
