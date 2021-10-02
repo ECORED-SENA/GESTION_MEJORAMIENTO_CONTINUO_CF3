@@ -182,141 +182,166 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Biblioteca UJMD. (s.f.). <i>Planeación estratégica y los indicadores de gestión.</i> ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://webquery.ujmd.edu.sv/siab/bvirtual/Fulltext/ADRS0000648/C2.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Coworkingfy. (2020). <i>Trabajo en equipo. Qué es, características, beneficios, importancia y más.</i> ',
+      link: 'https://coworkingfy.com/trabajo-en-equipo/',
+    },
+    {
+      referencia:
+        'Cruz, J. O. (2012). <i>Mejoramiento continuo. Definiciones e importancia.</i> ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.gestiopolis.com/definiciones-del-mejoramiento-continuo/',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'ESAN. (2016). <i>Las cuatro etapas para la mejora continua en la organización.</i> ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.esan.edu.pe/apuntes-empresariales/2016/05/las-cuatro-etapas-para-la-mejora-continua-en-la-organizacion/',
     },
     {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+      referencia: 'Fabra, A. (2017). <i>Cómo hacer un informe de gestión.</i>',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.mundodeportivo.com/uncomo/negocios/articulo/como-hacer-un-informe-de-gestion-25739.html',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'GALIANA, P. (2021). <i>Qué son los OKR’s: la metodología que usa Google para sus empleados.</i>',
+      link: 'https://www.iebschool.com/blog/que-es-metodologia-okr-rrhh-2-0/',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'González, G. (2003). <i>Diseño de indicadores de gestión institucional.</i> ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://repositorio.ufsc.br/bitstream/handle/123456789/116281/GONZALEZ.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      referencia:
+        'Educación Navarra. (s.f.). <i>¿Qué es un plan de mejora?</i>',
+      link:
+        'https://www.educacion.navarra.es/documents/57308/57761/Que%20es_un_plan_de_mejora.pdf/c300e8bc-1606-40c0-8a20-22ce1895bc04',
+    },
+    {
+      referencia:
+        'Isotools.org. (2015). <i>Herramientas para conseguir la mejora continua de la calidad.</i> ',
+      link:
+        'https://www.isotools.org/2015/07/17/herramientas-para-conseguir-la-mejora-continua-de-la-calidad/',
+    },
+    {
+      referencia:
+        'Isotools.org. (2015). <i>¿Qué son los indicadores de calidad?</i>',
+      link:
+        'https://www.isotools.org/2015/03/30/que-son-los-indicadores-de-calidad/',
+    },
+    {
+      referencia:
+        'Isotools.org. (2020). <i>Metodología OKR: la clave para el trabajo en equipo.</i>',
+      link:
+        'https://www.isotools.org/2020/06/08/metodologia-okr-la-clave-para-el-trabajo-en-equipo/',
+    },
+    {
+      referencia:
+        'Méndez, A. A. (2018). <i>Cómo implementar un plan de mejora empresarial.</i>',
+      link: 'https://www.questionpro.com/blog/es/plan-de-mejora-empresarial/',
+    },
+    {
+      referencia:
+        'MinEducación. (2004). <i>Planes de mejoramiento institucional. Analizar, definir, organizar.</i>',
+      link: 'https://www.mineducacion.gov.co/1621/article-87254.html',
+    },
+    {
+      referencia:
+        'Robbins, S. (2004). <i>Comportamiento organizacional.</i> Pearson Education.',
+    },
+    {
+      referencia:
+        'Sisteware. (2019). <i>8 ejemplos de un plan de mejora para una empresa.</i>',
+      link:
+        'https://www.siteware.co/es/gestion/conozca-8-ejemplos-de-un-plan-de-mejora-para-una-empresa/',
+    },
+    {
+      referencia:
+        'Suárez, L. Y. (2015). <i>La importancia del trabajo en equipo en las organizaciones actuales.</i>',
+      link:
+        'https://repository.unimilitar.edu.co/bitstream/handle/10654/13939/LUZ%20YOLANDA%20TORO%20SUAREZ%20%20TRABAJO%20FINAL.pdf;jsessionid=75CB0385D0382CECB43DED2EA105944A?sequence=2',
+    },
+    {
+      referencia:
+        'Taller de empresa. (s.f.). <i>¿Qué son los equipos de mejora?</i>',
+      link: 'https://www.tallerdeempresa.com/los-equipos-mejora/',
+    },
+    {
+      referencia:
+        'Tipos de cartas. (2021). <i>Informe de desempeño laboral.</i>',
+      link:
+        'https://tiposdecartas.com/formatos-y-planillas/informe-de-desempeno-laboral/#comment-403',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'KPI',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'del inglés <i>Key Performance Indicator</i> son las formas o medios que una empresa utiliza para conocer si sus objetivos generales, sus áreas funcionales y operativas, su personal o algún proyecto en específico, se están logrando.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'KPI retail',
+      terminoHtml: 'KPI <em>retail</em>',
       significado:
         'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Leyenda referencial',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'informe que se hace usando la técnica de evaluación en la que se usa una letra para medir cada aspecto.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Plan de mejora',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'proceso que se utiliza para alcanzar la calidad total y la excelencia de las organizaciones de manera progresiva, para así obtener resultados eficientes y eficaces.',
     },
     {
-      termino: 'Moda',
+      termino: 'Responsabilidad',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'se enfoca en las labores propias, siempre teniendo en cuenta que inciden en las labores de los compañeros y en el resultado final.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Biblioteca UJMD. (2017). <i>Planeación estratégica y los indicadores de gestión.</i> ',
+      tipo: 'Documento en línea',
+      link:
+        'https://webquery.ujmd.edu.sv/siab/bvirtual/Fulltext/ADRS0000648/C2.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
+        'Toro, L. (2015). <i>La importancia del trabajo en las organizaciones actuales.</i>',
+      tipo: 'Documento en línea. Repositorio.',
+      link:
+        'https://repository.unimilitar.edu.co/bitstream/handle/10654/13939/LUZ%20YOLANDA%20TORO%20SUAREZ%20%20TRABAJO%20FINAL.pdf;jsessionid=75CB0385D0382CECB43DED2EA105944A?sequence=2',
+    },
+    {
+      texto: 'Educación Navarra. (2018). <i>¿Qué es un plan de mejora?</i>',
       tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      link:
+        'https://www.educacion.navarra.es/documents/57308/57761/Que%20es_un_plan_de_mejora.pdf/c300e8bc-1606-40c0-8a20-22ce1895bc04',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Isotools excelence. (2015). <i>Herramientas para conseguir la mejora continua de la calidad.</i>',
+      tipo: 'Documento en línea. Repositorio.',
+      link:
+        'https://www.isotools.org/2015/07/17/herramientas-para-conseguir-la-mejora-continua-de-la-calidad/',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Fabra, A. (2017). <i>Cómo hacer un informe de gestión.</i>',
+      tipo: 'Blog',
+      link:
+        'https://www.mundodeportivo.com/uncomo/negocios/articulo/como-hacer-un-informe-de-gestion-25739.html',
     },
   ],
   creditos: {
