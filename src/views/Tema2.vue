@@ -19,7 +19,7 @@
             .bloque-texto-d.color-acento-contenido.p-4
               .bloque-texto-d__texto.mb-2
                 i.fas.fa-quote-left
-                .h5.text-bold Si estamos todo juntos no hay nada imposible. Si estamos divididos todo fallará.
+                .h5.text-bold Si estamos juntos no hay nada imposible. Si estamos divididos todo fallará.
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
                 p.mb-0 - Sir Winston Churchill 
@@ -44,7 +44,7 @@
             .h5.text-bold Un número de personas con habilidades complementarias que están comprometidas con un propósito, un conjunto de metas de desempeño y un enfoque común, por los cuales se hacen mutuamente responsables.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            p.mb-0 - Katzenbach y Smith definieron el equipo de trabajo 
+            p.mb-0 - Definición de equipo de trabajo por Katzenbach y Smith 
 
     p.mb-5 Cuando se aspira a que la empresa pase a un nivel superior, se fomenta la cultura basada en el trabajo en equipo empleando algunas de las características que se hace mención:
     .row.mb-5.justify-content-center
@@ -113,6 +113,7 @@
               span 9
             p Promotor. Celebra las ideas una vez iniciadas (Coworkingfy, 2020).
 
+    h3.titulo-tercero Actitudes para trabajo en equipo:
     .row.mb-5
       .col-lg-4
         figure(data-aos='slide-left')
@@ -253,7 +254,7 @@
     #t_2_2.titulo-segundo
       h2 2.2  Cómo construir cultura de trabajo de mejoramiento continuo
 
-    p.mb-5  Dentro de las características mínimas que deben tener los indicadores de gestión para un correcto desempeño en la búsqueda del mejoramiento continuo están:
+    p.mb-5  Para construir un buen grupo de trabajo en equipo se deben tener en cuenta los siguientes principios básicos:
 
     .row.mb-5
       .col-lg-4

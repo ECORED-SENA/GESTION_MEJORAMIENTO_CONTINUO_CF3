@@ -75,7 +75,7 @@
             .row.justify-content-center
               .col-md-10.mb-4.mb-md-0
                 h4 Introducción
-                p.mb-3 En este espacio se brinda una breve exposición de las razones por la cuales se elabora este informe. Esto se realiza con el fin de que quien lo lea, pueda entender todo el contexto de su objeto central de estudio y que se tuvo en cuenta para hacerlo.
+                p.mb-3 En este espacio se brinda una breve exposición de las razones por la cuales se elabora este informe. Esto se realiza con el fin de que quien lo lea, pueda entender todo el contexto de su objeto central de estudio y qué se tuvo en cuenta para hacerlo.
 
           .py-3.py-md-4(titulo="Desarrollo del informe")
             .row.justify-content-center
@@ -291,7 +291,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  .h4.mb-1 Descarga esta tabla y por en práctica los conocimientos adquiridos
+                  .h4.mb-1 Para poner en práctica los conocimientos adquiridos sobre el Plan de mejora de personal, lo invitamos a descargar la siguiente tabla:
                 .col-sm-auto
                   a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Anexo3_Plan_De_Mejora_De_Personal.pdf')" target="_blank")
                     span Descargar

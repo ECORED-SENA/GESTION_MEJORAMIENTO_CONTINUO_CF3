@@ -57,7 +57,7 @@
       .col-lg-10
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5.custom-cardBlock.ltr.slideInUp
           .bloque-texto-g__texto.p-4
-            p.mb-0 Una de las técnicas sugeridas para implementar el plan de mejora es <b>el ciclo PDCA</b>, también conocido como ciclo de mejora continua o ciclo de <i>Deming</i>; y suele ser el más empleado en la implementación de sistema alguno para hacer un plan de mejoramiento continuo.
+            p.mb-0 Una de las técnicas sugeridas para implementar el plan de mejora es <b>el ciclo PDCA</b>, también conocido como ciclo de mejora continua o ciclo de <i>Deming</i>; y suele ser el más empleado en la implementación de algún sistema para hacer un plan de mejoramiento continuo.
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/t4-i2.svg')})`}"
           )
@@ -92,7 +92,7 @@
           .col-lg-9
             p Una vez se ejecuten los cambios, se toman un periodo de prueba para confirmar que estén funcionando correctamente. Si no hay mejora con lo realizado, se deben volver a modificar las acciones para mejorar.
 
-      .tarjeta.color-acento-contenido.p-4(titulo="<i>Check</i> (verificar)")
+      .tarjeta.color-acento-contenido.p-4(titulo="<i>Act</i> (actuar)")
         h4 <i>Act</i> (actuar)
         .row.mb-5
           .col-lg-3
@@ -157,7 +157,7 @@
               img(src='@/assets/curso/t4-i12.svg', alt='imagen decorativa')
 
           .col-md-7.mb-4.mb-md-0
-            p Este modelo Lean Manufacturing se centra en las necesidades del cliente o consumidor. Desde allí inicia el proceso de mejoramiento y con base en ello se hace uso de los recursos para la reducción de costos, respuestas inmediatas y la optimización de los ciclos de trabajo. 
+            p Este modelo <i>Lean Manufacturing</i> se centra en las necesidades del cliente o consumidor. Desde allí inicia el proceso de mejoramiento y con base en ello se hace uso de los recursos para la reducción de costos, respuestas inmediatas y la optimización de los ciclos de trabajo. 
 
         .row.justify-content-center(titulo="Tipo 6: DFSS")
           .col-md-4

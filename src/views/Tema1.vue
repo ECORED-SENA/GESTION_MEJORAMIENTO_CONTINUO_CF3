@@ -33,11 +33,11 @@
           .tarjeta.color-secundario.p-3.shadow-box(x="71%" y="80%")
             p Teniendo buenos datos se pueden tomar decisiones que sean relevantes para la organización.
           .tarjeta.color-secundario.p-3.shadow-box(x="91%" y="80%")
-            p Deben ser medidos constantemente, ya que esto será fundamental para saber que funciona y que no funciona de lo que se está haciendo.
+            p Deben ser medidos constantemente, ya que esto será fundamental para saber qué funciona y qué no funciona de lo que se está haciendo.
 
 
     h3.titulo-tercero Ahora bien, ¿cuáles son los requisitos de los KPI?
-    p.mb-5  Entre los requisitos más conocidos de los indicadores KPI, deducimos que siguen la metodología SMART (Specific, Measurable, Achievable, Relevant, Timely) o lo que en español viene a ser específicos, medibles, adaptados, relevantes y oportunos. A continuación, se pueden ver los que se utilizan.
+    p.mb-5  Entre los requisitos más conocidos de los indicadores KPI, deducimos que siguen la metodología SMART (<i>Specific, Measurable, Achievable, Relevant, Timely</i>) o lo que en español viene a ser específicos, medibles, adaptados, relevantes y oportunos. A continuación, se pueden ver los que se utilizan.
     .row.mb-5.justify-content-center
       .col-lg-10 
         ImagenInfografica.color-secundario.mb-5
@@ -106,15 +106,15 @@
                 i.fas.fa-check
                 p.mb-0  CTR (<i>Click Through Rate</i>)
 
-      .tarjeta.color-secundario.p-4(titulo="3. KPI Retail")
-        h4 3. KPI Retail
+      .tarjeta.color-secundario.p-4(titulo="3. KPI <i>retail</i>")
+        h4 3. KPI <i>retail</i>
         .row.mb-5
           .col-lg-2
             figure.slideInLeft
               img(src='@/assets/curso/t1-ic3.svg', alt='imagen decorativa')
           .col-lg-9
             p.mb-3 El objetivo de este indicador de gestión es el de hacer crecer las ventas y disminuir los gastos en el sector de consumo y de textiles.
-            p.mb-3.text-bold  Ejemplos de KPI de retail:
+            p.mb-3.text-bold  Ejemplos de KPI de <i>retail</i>:
             ul.lista-ul.slideInUp(data-aos="fade-up")
               li
                 i.fas.fa-check
@@ -205,8 +205,8 @@
             figure.slideInLeft
               img(src='@/assets/curso/t1-ic7.svg', alt='imagen decorativa')
           .col-lg-9
-            p.mb-3 Fundamentalmente está destinado a mejorar la forma de medir el rendimiento de las actividades que se destinan a conseguir leads, que son las listas con los datos personales de clientes potenciales y que se obtienen por intermedio de una página web, así como saber influenciar en el público objetivo y cómo impactan los banners en los computadores de los clientes. Lo importante de este indicador es que cada uno debe ir acompañado de valores que brindan posibilidad de escoger los canales que sean de mayor impacto para llegar al cliente.
-            p.mb-3.text-bold  Ejemplos de KPI de marketing digital:
+            p.mb-3 Fundamentalmente está destinado a mejorar la forma de medir el rendimiento de las actividades que se destinan a conseguir <i>leads</i>, que son las listas con los datos personales de clientes potenciales y que se obtienen por intermedio de una página <i>web</i>, así como saber influenciar en el público objetivo y cómo impactan los <i>banners</i> en los computadores de los clientes. Lo importante de este indicador es que cada uno debe ir acompañado de valores que brindan posibilidad de escoger los canales que sean de mayor impacto para llegar al cliente.
+            p.mb-3.text-bold  Ejemplos de KPI de <i>marketing</i> digital:
             ul.lista-ul.slideInUp(data-aos="fade-up")
               li
                 i.fas.fa-check
@@ -249,7 +249,7 @@
             p.mb-0  Lograr la creación de las acciones correctivas que sean necesarias, con la cuales sea factible redirigir las acciones correctivas de mejora para obtener los resultados esperados.
           li
             i.fas.fa-check
-            p.mb-0  La más importante es, definitivamente, poder tener el control de lo que ocurra para usar las acciones que correspondan  CITATION iso15 \l 9226 (isotools.org, 2015).
+            p.mb-0  La más importante es, definitivamente, poder tener el control de lo que ocurra para usar las acciones que correspondan.  CITATION iso15 \l 9226 (isotools.org, 2015).
 
 
 
@@ -295,7 +295,7 @@
     br
     #t_1_3.titulo-segundo
       h2 1.3  Indicadores de gestión y planeación estratégica
-    p.mb-5  La planeación estratégica es el proceso que permite instaurar y armonizar los esfuerzos que se deban hacer, cuándo y cómo se deben hacer, quien los ejecutará y qué se hará con los resultados. Por todo esto, es un proceso que debe permanecer continuo por medio del cual se establecen o definen las estrategias necesarias para que, en concordancia con el entorno de la empresa, nos brinden los resultados requeridos.
+    p.mb-5  La planeación estratégica es el proceso que permite instaurar y armonizar los esfuerzos que se deban hacer, cuándo y cómo se deben hacer, quién los ejecutará y qué se hará con los resultados. Por todo esto, es un proceso que debe permanecer continuo por medio del cual se establecen o definen las estrategias necesarias para que, en concordancia con el entorno de la empresa, nos brinden los resultados requeridos.
 
     .row.mb-5
       .col-lg-5

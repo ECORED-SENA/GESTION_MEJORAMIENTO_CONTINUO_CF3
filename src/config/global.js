@@ -326,14 +326,14 @@ export default {
     },
     {
       texto: 'Educación Navarra. (2018). <i>¿Qué es un plan de mejora?</i>',
-      tipo: 'Página web',
+      tipo: 'Documento en línea. Repositorio.',
       link:
         'https://www.educacion.navarra.es/documents/57308/57761/Que%20es_un_plan_de_mejora.pdf/c300e8bc-1606-40c0-8a20-22ce1895bc04',
     },
     {
       texto:
         'Isotools excelence. (2015). <i>Herramientas para conseguir la mejora continua de la calidad.</i>',
-      tipo: 'Documento en línea. Repositorio.',
+      tipo: 'Página web',
       link:
         'https://www.isotools.org/2015/07/17/herramientas-para-conseguir-la-mejora-continua-de-la-calidad/',
     },
@@ -358,6 +358,29 @@ export default {
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'José Luis Rangel Ayala',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de la Industria, la Empresa y los Servicios. CIES - Regional Norte de Santander',
+      },
+      {
+        nombre: 'Gloria Lida Alzate Suárez',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -397,7 +420,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

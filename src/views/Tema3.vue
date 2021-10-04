@@ -13,7 +13,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/t3-i1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4.shadow-box
-            p.mb-0 Los planes de mejoramiento continuo son conjuntos de medidas que se toman para generar los cambios necesarios para que una organización, empresa o negocio pueda mejorar su rendimiento. De allí se desprenden las acciones de mejora que se deben aplicar para lograr estos objetivos (Educacion Navarra, s.f.).
+            p.mb-0 Los planes de mejoramiento continuo son conjuntos de medidas que se toman para generar los cambios necesarios para que una organización, empresa o negocio pueda mejorar su rendimiento. De allí se desprenden las acciones de mejora que se deben aplicar para lograr estos objetivos (Educación Navarra, s.f.).
 
     p.mb-5  Estos planes de mejora articulados de manera integrada brindan las decisiones estratégicas que se deben incorporar en los múltiples procesos de la empresa, para brindar un mejor servicio y que este sea percibido por los clientes. Estos planes también son la base para descubrir cuáles son las fallas que se están presentando y cuáles son las mejoras que se deben ejecutar, ante las posibles situaciones que se presenten de manera imprevista. El plan de mejora permite:
     .row.mb-5
@@ -21,7 +21,6 @@
         figure.slideInLeft
           img(src="@/assets/curso/t3-i2.svg" alt='imagen decorativa')
       .col-lg-9
-        p.mb-3  Hay muchas definiciones de diferentes autores y, sin embargo, todos expresan una idea similar a la que se indica a continuación:
         ul.lista-ul
           li
             i.fas.fa-check  
@@ -46,7 +45,7 @@
             p.mb-0 Motivar a la comunidad universitaria a mejorar el nivel de calidad.
           li
             i.fas.fa-check  
-            p.mb-0 El plan elaborado en base a este documento permite tener de una manera organizada, priorizada y planificada las acciones de mejora.
+            p.mb-0 El plan elaborado con base a este documento permite tener de una manera organizada, priorizada y planificada las acciones de mejora.
           li
             i.fas.fa-check  
             p.mb-0 Su implantación y seguimiento debe ir orientado a aumentar la calidad de la enseñanza universitaria para que sea claramente percibida por su destinatario final.           
@@ -142,7 +141,7 @@
             p.mb-0  El grupo de trabajo debe puntuar cada problema según los criterios establecidos y posteriormente se realizará una ponderación de los resultados para clasificar los problemas; para esta etapa se puede usar una herramienta especializada en encuestas como QuestionPro.
           li
             i.fas.fa-check
-            p.mb-0  Discutir los resultados finales con el grupo de trabajo, en caso se detecte empates en los resultados para llegar a un consenso.
+            p.mb-0  Discutir los resultados finales con el grupo de trabajo, en caso que se detecte empates en los resultados para llegar a un consenso.
 
 
 
