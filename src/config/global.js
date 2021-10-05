@@ -182,101 +182,97 @@ export default {
   referencias: [
     {
       referencia:
-        'Biblioteca UJMD. (s.f.). <i>Planeación estratégica y los indicadores de gestión.</i> ',
+        'Biblioteca UJMD. (s.f.). Planeación estratégica y los indicadores de gestión. ',
       link:
         'https://webquery.ujmd.edu.sv/siab/bvirtual/Fulltext/ADRS0000648/C2.pdf',
     },
     {
       referencia:
-        'Coworkingfy. (2020). <i>Trabajo en equipo. Qué es, características, beneficios, importancia y más.</i> ',
+        'Coworkingfy. (2020). Trabajo en equipo. Qué es, características, beneficios, importancia y más. ',
       link: 'https://coworkingfy.com/trabajo-en-equipo/',
     },
     {
       referencia:
-        'Cruz, J. O. (2012). <i>Mejoramiento continuo. Definiciones e importancia.</i> ',
+        'Cruz, J. O. (2012). Mejoramiento continuo. Definiciones e importancia. ',
       link:
         'https://www.gestiopolis.com/definiciones-del-mejoramiento-continuo/',
     },
     {
       referencia:
-        'ESAN. (2016). <i>Las cuatro etapas para la mejora continua en la organización.</i> ',
+        'ESAN. (2016). Las cuatro etapas para la mejora continua en la organización. ',
       link:
         'https://www.esan.edu.pe/apuntes-empresariales/2016/05/las-cuatro-etapas-para-la-mejora-continua-en-la-organizacion/',
     },
     {
-      referencia: 'Fabra, A. (2017). <i>Cómo hacer un informe de gestión.</i>',
+      referencia: 'Fabra, A. (2017). Cómo hacer un informe de gestión.',
       link:
         'https://www.mundodeportivo.com/uncomo/negocios/articulo/como-hacer-un-informe-de-gestion-25739.html',
     },
     {
       referencia:
-        'GALIANA, P. (2021). <i>Qué son los OKR’s: la metodología que usa Google para sus empleados.</i>',
+        'GALIANA, P. (2021). Qué son los OKR’s: la metodología que usa Google para sus empleados.',
       link: 'https://www.iebschool.com/blog/que-es-metodologia-okr-rrhh-2-0/',
     },
     {
       referencia:
-        'González, G. (2003). <i>Diseño de indicadores de gestión institucional.</i> ',
+        'González, G. (2003). Diseño de indicadores de gestión institucional. ',
       link:
         'https://repositorio.ufsc.br/bitstream/handle/123456789/116281/GONZALEZ.pdf?sequence=1&isAllowed=y',
     },
     {
-      referencia:
-        'Educación Navarra. (s.f.). <i>¿Qué es un plan de mejora?</i>',
+      referencia: 'Educación Navarra. (s.f.). ¿Qué es un plan de mejora?',
       link:
         'https://www.educacion.navarra.es/documents/57308/57761/Que%20es_un_plan_de_mejora.pdf/c300e8bc-1606-40c0-8a20-22ce1895bc04',
     },
     {
       referencia:
-        'Isotools.org. (2015). <i>Herramientas para conseguir la mejora continua de la calidad.</i> ',
+        'Isotools.org. (2015). Herramientas para conseguir la mejora continua de la calidad. ',
       link:
         'https://www.isotools.org/2015/07/17/herramientas-para-conseguir-la-mejora-continua-de-la-calidad/',
     },
     {
-      referencia:
-        'Isotools.org. (2015). <i>¿Qué son los indicadores de calidad?</i>',
+      referencia: 'Isotools.org. (2015). ¿Qué son los indicadores de calidad?',
       link:
         'https://www.isotools.org/2015/03/30/que-son-los-indicadores-de-calidad/',
     },
     {
       referencia:
-        'Isotools.org. (2020). <i>Metodología OKR: la clave para el trabajo en equipo.</i>',
+        'Isotools.org. (2020). Metodología OKR: la clave para el trabajo en equipo.',
       link:
         'https://www.isotools.org/2020/06/08/metodologia-okr-la-clave-para-el-trabajo-en-equipo/',
     },
     {
       referencia:
-        'Méndez, A. A. (2018). <i>Cómo implementar un plan de mejora empresarial.</i>',
+        'Méndez, A. A. (2018). Cómo implementar un plan de mejora empresarial.',
       link: 'https://www.questionpro.com/blog/es/plan-de-mejora-empresarial/',
     },
     {
       referencia:
-        'MinEducación. (2004). <i>Planes de mejoramiento institucional. Analizar, definir, organizar.</i>',
+        'MinEducación. (2004). Planes de mejoramiento institucional. Analizar, definir, organizar.',
       link: 'https://www.mineducacion.gov.co/1621/article-87254.html',
     },
     {
       referencia:
-        'Robbins, S. (2004). <i>Comportamiento organizacional.</i> Pearson Education.',
+        'Robbins, S. (2004). Comportamiento organizacional. Pearson Education.',
     },
     {
       referencia:
-        'Sisteware. (2019). <i>8 ejemplos de un plan de mejora para una empresa.</i>',
+        'Sisteware. (2019). 8 ejemplos de un plan de mejora para una empresa.',
       link:
         'https://www.siteware.co/es/gestion/conozca-8-ejemplos-de-un-plan-de-mejora-para-una-empresa/',
     },
     {
       referencia:
-        'Suárez, L. Y. (2015). <i>La importancia del trabajo en equipo en las organizaciones actuales.</i>',
+        'Suárez, L. Y. (2015). La importancia del trabajo en equipo en las organizaciones actuales.',
       link:
         'https://repository.unimilitar.edu.co/bitstream/handle/10654/13939/LUZ%20YOLANDA%20TORO%20SUAREZ%20%20TRABAJO%20FINAL.pdf;jsessionid=75CB0385D0382CECB43DED2EA105944A?sequence=2',
     },
     {
-      referencia:
-        'Taller de empresa. (s.f.). <i>¿Qué son los equipos de mejora?</i>',
+      referencia: 'Taller de empresa. (s.f.). ¿Qué son los equipos de mejora?',
       link: 'https://www.tallerdeempresa.com/los-equipos-mejora/',
     },
     {
-      referencia:
-        'Tipos de cartas. (2021). <i>Informe de desempeño laboral.</i>',
+      referencia: 'Tipos de cartas. (2021). Informe de desempeño laboral.',
       link:
         'https://tiposdecartas.com/formatos-y-planillas/informe-de-desempeno-laboral/#comment-403',
     },
@@ -312,33 +308,33 @@ export default {
   complementario: [
     {
       texto:
-        'Biblioteca UJMD. (2017). <i>Planeación estratégica y los indicadores de gestión.</i> ',
+        'Biblioteca UJMD. (2017). Planeación estratégica y los indicadores de gestión. ',
       tipo: 'Documento en línea',
       link:
         'https://webquery.ujmd.edu.sv/siab/bvirtual/Fulltext/ADRS0000648/C2.pdf',
     },
     {
       texto:
-        'Toro, L. (2015). <i>La importancia del trabajo en las organizaciones actuales.</i>',
+        'Toro, L. (2015). La importancia del trabajo en las organizaciones actuales.',
       tipo: 'Documento en línea. Repositorio.',
       link:
         'https://repository.unimilitar.edu.co/bitstream/handle/10654/13939/LUZ%20YOLANDA%20TORO%20SUAREZ%20%20TRABAJO%20FINAL.pdf;jsessionid=75CB0385D0382CECB43DED2EA105944A?sequence=2',
     },
     {
-      texto: 'Educación Navarra. (2018). <i>¿Qué es un plan de mejora?</i>',
+      texto: 'Educación Navarra. (2018). ¿Qué es un plan de mejora?',
       tipo: 'Documento en línea. Repositorio.',
       link:
         'https://www.educacion.navarra.es/documents/57308/57761/Que%20es_un_plan_de_mejora.pdf/c300e8bc-1606-40c0-8a20-22ce1895bc04',
     },
     {
       texto:
-        'Isotools excelence. (2015). <i>Herramientas para conseguir la mejora continua de la calidad.</i>',
+        'Isotools excelence. (2015). Herramientas para conseguir la mejora continua de la calidad.',
       tipo: 'Página web',
       link:
         'https://www.isotools.org/2015/07/17/herramientas-para-conseguir-la-mejora-continua-de-la-calidad/',
     },
     {
-      texto: 'Fabra, A. (2017). <i>Cómo hacer un informe de gestión.</i>',
+      texto: 'Fabra, A. (2017). Cómo hacer un informe de gestión.',
       tipo: 'Blog',
       link:
         'https://www.mundodeportivo.com/uncomo/negocios/articulo/como-hacer-un-informe-de-gestion-25739.html',

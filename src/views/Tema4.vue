@@ -65,7 +65,7 @@
 
     p.mb-5  Estas etapas se explican a continuación:
     TabsA.color-secundario.mb-5
-      .tarjeta.color-acento-contenido.p-4(titulo="<i>Plan</i> (planificar)")
+      .tarjeta.color-secundario.p-4(titulo="<i>Plan</i> (planificar)")
         h4 <i>Plan</i> (planificar)
         .row.mb-5
           .col-lg-3
@@ -74,7 +74,7 @@
           .col-lg-9
             p En esta etapa se identifican cuáles son las actividades que la organización debe mejorar, y se planifican las acciones para fijar los objetivos que logren este fin.
 
-      .tarjeta.color-acento-contenido.p-4(titulo="<i>Do</i> (hacer)")
+      .tarjeta.color-secundario.p-4(titulo="<i>Do</i> (hacer)")
         h4 <i>Do</i> (hacer)
         .row.mb-5
           .col-lg-3
@@ -83,7 +83,7 @@
           .col-lg-9
             p Acá se hacen los cambios que se necesiten para lograr los cambios necesarios, con base en una pequeña muestra que permita evaluarlos antes de hacerlos efectivos.
 
-      .tarjeta.color-acento-contenido.p-4(titulo="<i>Check</i> (verificar)")
+      .tarjeta.color-secundario.p-4(titulo="<i>Check</i> (verificar)")
         h4 <i>Check</i> (verificar)
         .row.mb-5
           .col-lg-3
@@ -92,7 +92,7 @@
           .col-lg-9
             p Una vez se ejecuten los cambios, se toman un periodo de prueba para confirmar que estén funcionando correctamente. Si no hay mejora con lo realizado, se deben volver a modificar las acciones para mejorar.
 
-      .tarjeta.color-acento-contenido.p-4(titulo="<i>Act</i> (actuar)")
+      .tarjeta.color-secundario.p-4(titulo="<i>Act</i> (actuar)")
         h4 <i>Act</i> (actuar)
         .row.mb-5
           .col-lg-3
