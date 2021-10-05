@@ -118,42 +118,42 @@
         p.mb-3  Los elementos más importantes que debe contener un Informe de desempeño laboral son los siguientes:
     
     .row.mb-5
-      .col-lg-4
+      .col-md-12.col-lg-4.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t5-c1.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
-              p.mb-3.py-3.h3 Datos de la empresa
+              p.h3 Datos de la empresa
               p.small En este tipo de informes es importante que se incluyan los datos de la empresa como nombre y razón social, dirección y teléfono.
-      .col-lg-4
+      .col-md-12.col-lg-4.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t5-c2.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
-              p.mb-3.py-3.h3 Datos del empleado
+              p.h3 Datos del empleado
               p.small De igual manera, será necesario que se incluyan los datos del trabajador como su nombre, número de identificación, el puesto que desempeña en la empresa y el tiempo que tiene trabajando.
-      .col-lg-4
+      .col-md-12.col-lg-4.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t5-c3.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
-              p.mb-3.py-3.h3 Leyenda referencial
+              p.h3 Leyenda referencial
               p.small Por lo general, este tipo de informes se hacen usando la técnica de evaluación en la que se usa una letra para medir cada aspecto. Esto quiere decir que antes de hacer el informe, se debe escribir la leyenda de lo que significa cada letra que se ponga en los respectivos ítems a evaluar.
 
     .row.mb-5.justify-content-center
-      .col-lg-4
+      .col-md-12.col-lg-4.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t5-c4.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Cuadros por áreas
               p.small Estos cuadros serán los que componen el informe. Por lo general se utilizan 3: área personal, área social y área técnica. Cada uno de ellos tendrá una lista de competencias que se evaluarán con las letras correspondientes según la leyenda previa. También es común agregar una casilla de “comentarios” en la que el evaluador puede escribir notas acerca del empleado.
-      .col-lg-4
+      .col-md-12.col-lg-4.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t5-c5.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
-              p.mb-3.py-3.h3 Datos del evaluador
+              p.h3 Datos del evaluador
               p.small Al finalizar la evaluación y al final del informe se deben colocar los datos de la persona que hace la evaluación que será quien firme el Informe de desempeño laboral. Estos datos deben incluir nombre, cargo y firma del evaluador, así como la fecha en la que el informe se concluye.
 
     .row.mb-5.justify-content-center
