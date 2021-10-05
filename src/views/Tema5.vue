@@ -146,7 +146,7 @@
           img(src="@/assets/curso/t5-c4.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
-              p.mb-3.py-3.h3 Cuadros por áreas
+              p.h3 Cuadros por áreas
               p.small Estos cuadros serán los que componen el informe. Por lo general se utilizan 3: área personal, área social y área técnica. Cada uno de ellos tendrá una lista de competencias que se evaluarán con las letras correspondientes según la leyenda previa. También es común agregar una casilla de “comentarios” en la que el evaluador puede escribir notas acerca del empleado.
       .col-lg-4
         .nav-holder.align-items-center(data-aos="flip-left")
@@ -274,7 +274,7 @@
     p.mb-5  De acuerdo con el Decreto 1072-2015, artículo 2.2.4.6.8, numeral 7, se invita a ver el siguiente video que hace parte de una actualización del sistema de gestión de seguridad y salud en el trabajo que debe ser aplicado con los planes de mejora continua en la empresa:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/esZNJmokj_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5  En la siguiente figura se puede observar un formato del Plan de mejora de personal que debe realizar una empresa para un buen funcionamiento de sus procesos.
     
