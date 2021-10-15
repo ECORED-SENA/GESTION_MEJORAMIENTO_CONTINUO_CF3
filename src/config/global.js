@@ -257,12 +257,6 @@ export default {
     },
     {
       referencia:
-        'Sisteware. (2019). 8 ejemplos de un plan de mejora para una empresa.',
-      link:
-        'https://www.siteware.co/es/gestion/conozca-8-ejemplos-de-un-plan-de-mejora-para-una-empresa/',
-    },
-    {
-      referencia:
         'Suárez, L. Y. (2015). La importancia del trabajo en equipo en las organizaciones actuales.',
       link:
         'https://repository.unimilitar.edu.co/bitstream/handle/10654/13939/LUZ%20YOLANDA%20TORO%20SUAREZ%20%20TRABAJO%20FINAL.pdf;jsessionid=75CB0385D0382CECB43DED2EA105944A?sequence=2',
