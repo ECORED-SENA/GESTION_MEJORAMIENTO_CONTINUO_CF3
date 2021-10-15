@@ -16,7 +16,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-7
-        figcaption.customCaption.mb-2 <b>Figura</b> La norma ISO 9004:2018 y la aplicación del cuadro de mando integral para el éxito sostenido
+        figcaption.customCaption.mb-2 <b>Figura</b> La norma ISO 9004:2018 y la aplicación del cuadro de mando integral para el éxito sostenido.
         figure
           img.shadow-box(src='@/assets/curso/t5-i2.jpg', alt='imagen decorativa')
         figcaption  Nota.  Tomada de Superservicios.gov.co (2015).
@@ -30,8 +30,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Priorización en acciones de mejora
-                  p.text-small Para afianzar sus conocimientos en establecer las acciones de mejora de la empresa,  le invitamos a descargar la siguiente tabla para colocar en práctica los concepto vistos.
+                  h3.mb-1 Informes de resultados
+                  p.text-small Para afianzar sus conocimientos, le invitamos a descargar el siguiente informe de auditoría interna de gestión.
                 .col-sm-auto
                   a.boton.color-acento-contenido(:href="obtenerLink('/downloads/auditoria_interna_de_gestion_mejora_continua_2015.pdf')" target="_blank")
                     span Descargar

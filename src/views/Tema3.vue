@@ -84,8 +84,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Informes de resultados
-                  p.text-small Para afianzar sus conocimientos, le invitamos a descargar el siguiente infome de auditoría interna de gestión.
+                  h3.mb-1 Priorización en acciones de mejora
+                  p.text-small Para afianzar sus conocimientos en establecer las acciones de mejora de la empresa,  le invitamos a descargar la siguiente tabla para colocar en práctica los concepto vistos.
                 .col-sm-auto
                   a.boton.color-acento-contenido(:href="obtenerLink('/downloads/priorizacion_en_acciones_de_mejora.pdf')" target="_blank")
                     span Descargar
