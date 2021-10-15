@@ -186,28 +186,28 @@
         p.mb-3  Para que los equipos alcancen un alto rendimiento, el escritor Tom Peters, consultor empresarial norteamericano, determinó cinco componentes del trabajo en equipo, conocidos como “las cinco C del trabajo en equipo” que son:
 
     .row.mb-5.justify-content-center
-      .col-sm-6.col-md-6.col-lg-6.col-xl-4
+      .col-xs-8.col-sm-8.col-md-5.col-lg-5.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t2-c1.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Complementariedad
               p.small Todos y cada uno de los miembros del equipo deben poner al servicio del mismo todas sus habilidades y competencias individuales. Con esto se asegura la consecución de objetivos que de manera individual no será posible.
-      .col-sm-6.col-md-6.col-lg-6.col-xl-4
+      .col-xs-8.col-sm-8.col-md-5.col-lg-5.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t2-c2.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Coordinación
               p.small Es facultad del líder conocer las habilidades de cada uno de sus miembros de equipo, para asignar las tareas y potencializar la obtención de resultados.
-      .col-sm-6.col-md-6.col-lg-6.col-xl-4
+      .col-xs-8.col-sm-8.col-md-5.col-lg-5.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t2-c3.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Comunicación
               p.small Es fundamental que la comunicación sea abierta, franca, oportuna y clara. Con esto cada miembro se asegura de conocer qué debe hacer y cómo lo debe hacer. 
-      .col-sm-6.col-md-6.col-lg-6.col-xl-4
+      .col-xs-8.col-sm-8.col-md-5.col-lg-5.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t2-c4.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
@@ -215,7 +215,7 @@
               p.h3 Confianza
               p.small Parte de la claridad del líder al explicar de manera concreta las labores a desarrollar. Debe existir de manera diáfana entre cada uno de los integrantes del equipo esa seguridad tanto de las capacidades individuales y las de los demás para lograr los objetivos propuestos. No es algo de fácil consecución y se debe trabajar día a día. 
 
-      .col-sm-6.col-md-6.col-lg-6.col-xl-4
+      .col-xs-8.col-sm-8.col-md-5.col-lg-5.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t2-c5.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
