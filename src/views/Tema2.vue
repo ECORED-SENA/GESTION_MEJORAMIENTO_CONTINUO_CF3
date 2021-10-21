@@ -186,14 +186,14 @@
         p.mb-3  Para que los equipos alcancen un alto rendimiento, el escritor Tom Peters, consultor empresarial norteamericano, determinó cinco componentes del trabajo en equipo, conocidos como “las cinco C del trabajo en equipo” que son:
 
     .row.mb-5.justify-content-center
-      .col-xs-8.col-sm-8.col-md-5.col-lg-5.col-xl-4
+      .col-xs-8.col-sm-8.col-md-6.col-lg-5.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t2-c1.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Complementariedad
               p.small Todos y cada uno de los miembros del equipo deben poner al servicio del mismo todas sus habilidades y competencias individuales. Con esto se asegura la consecución de objetivos que de manera individual no será posible.
-      .col-xs-8.col-sm-8.col-md-5.col-lg-5.col-xl-4
+      .col-xs-8.col-sm-8.col-md-6.col-lg-5.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t2-c2.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
