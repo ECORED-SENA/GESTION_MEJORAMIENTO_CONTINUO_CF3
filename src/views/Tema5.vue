@@ -270,7 +270,7 @@
               p.mb-3  Reúnase con los colaboradores al menos una vez al mes y ofrézcales la oportunidad de decir cuáles son sus dificultades en la búsqueda de resultados.
 
 
-    p.mb-5  De acuerdo con el Decreto 1072-2015, artículo 2.2.4.6.8, numeral 7, se invita a ver el siguiente video que hace parte de una actualización del sistema de gestión de seguridad y salud en el trabajo que debe ser aplicado con los planes de mejora continua en la empresa:
+    p.mb-5  De acuerdo con el Decreto 1072-2015, artículo 2.2.4.6.8, numeral 7, se invita a ver el siguiente video que hace parte de una actualización del Sistema de Gestión de Seguridad y Salud en el Trabajo que debe ser aplicado con los planes de mejora continua en la empresa:
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/esZNJmokj_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
