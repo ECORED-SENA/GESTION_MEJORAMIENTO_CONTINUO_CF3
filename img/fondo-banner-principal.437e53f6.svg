@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320" height="506.835" viewBox="0 0 1320 506.835">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.8" cy="0.575" r="0.882" gradientTransform="matrix(-0.556, -0.831, 0.475, -0.318, 1.022, 1.332)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9800"/>
+      <stop offset="0" stop-color="#e8eeca"/>
+      <stop offset="0.279" stop-color="#c8f6fa"/>
+      <stop offset="0.764" stop-color="#ededc3"/>
+      <stop offset="1" stop-color="#fff1cb"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.019" y1="0.959" x2="0.434" y2="0.625" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5df2ff"/>
+      <stop offset="1" stop-color="#fff1cb" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.012" y1="1.049" x2="0.306" y2="0.597" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff805a"/>
+      <stop offset="1" stop-color="#fff1cb" stop-opacity="0.557"/>
+    </linearGradient>
+  </defs>
+  <g id="fondo-banner-principal" transform="translate(-140.333 -78)">
+    <path id="Path_103849" data-name="Path 103849" d="M20,0H1300c11.046,0,20,8.388,20,18.735V487.1c0,10.347-8.954,18.735-20,18.735H20c-11.046,0-20-8.388-20-18.735V18.735C0,8.388,8.954,0,20,0Z" transform="translate(140.333 78)" fill="url(#radial-gradient)"/>
+    <path id="Intersection_2" data-name="Intersection 2" d="M19.223,439.829A19.223,19.223,0,0,1,0,420.606V0L676.8,439.829Z" transform="translate(1460.001 518.003) rotate(180)" fill="url(#linear-gradient)"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M20,457.608a20,20,0,0,1-20-20V0L704.153,457.608Z" transform="translate(140.333 127.227)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
